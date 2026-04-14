@@ -1,5 +1,4 @@
-## Hi there, I'm Brian 👋
----
+### Hi there, I'm Brian 👋
 
 I'm a graduate just trying to get by.
 
