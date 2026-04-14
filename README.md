@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi there, I'm Brian 👋
+---
 
+I'm a graduate just trying to get by.
+
+📫 Contact
+---
+
+ - email: brian.yangp@gmail.com
 <!--
 **brian1y/brian1y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
