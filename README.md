@@ -1,6 +1,6 @@
-## Hi there, I'm Brian 👋
-<br>
-I'm a graduate just trying to get by.
+# Hi there, I'm Brian 👋
+
+Feel free to reach out
 
 📫 Contact
 ---
